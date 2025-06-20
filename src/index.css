@@ -1,0 +1,122 @@
+/* ========== CSS RESET & BASE STYLES ========== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Segoe UI", "Poppins", sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ========== GLOBAL TYPOGRAPHY ========== */
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: #222;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+/* ========== SCROLLBAR STYLE ========== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #4b0082;
+  border-radius: 10px;
+}
+
+/* ========== UTILITY CLASSES ========== */
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #4b0082;
+  position: relative;
+}
+.section-title::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #ffdf00;
+  margin: 0.5rem auto 0;
+  border-radius: 8px;
+}
+
+/* ========== DARK MODE SUPPORT ========== */
+body.dark {
+  background-color: #121212;
+  color: #f2f2f2;
+}
+
+body.dark .section-title {
+  color: #ffd700;
+}
+
+body.dark a,
+body.dark p,
+body.dark h1,
+body.dark h2,
+body.dark h3 {
+  color: #eaeaea;
+}
+
+body.dark .glass-panel,
+body.dark .glassy,
+body.dark .card,
+body.dark .project-card {
+  background: linear-gradient(to right, #7fdaeabd, #8a2be2);
+  backdrop-filter: blur(10px);
+  background-color: linear-gradient(to right, #7fdaeabd, #8a2be2);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ========== ANIMATIONS ========== */
+.fade-in {
+  animation: fadeIn 0.8s ease-in-out;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ========== TRANSITIONS ========== */
+a:hover,
+button:hover {
+  opacity: 0.85;
+  transform: scale(1.02);
+}
+
+/* ========== BASE CONTAINER ========== */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
