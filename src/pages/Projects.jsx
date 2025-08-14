@@ -4,11 +4,11 @@ import "../styles/styles.css";
 export default function Projects() {
   const projects = [
     {
-      title: "E-Commerce Website = 'Momomania'",
+      title: "E-Commerce Website : 'Momomania'",
       description: " An e-commerce website built with React , Node.js with User-friendly UI and efficient cart facilities.",
       tech: ["React","Javascript","CSS"],
       code: "https://github.com/Kaviyavb/MomoMania.git",
-      demo: "https://react-todo-app-kaviya-sri-vs-projects.vercel.app/", 
+      demo: "https://momo-mania-cwww-kaviya-sri-vs-projects.vercel.app/", 
     },
     
      {
