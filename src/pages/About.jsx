@@ -33,6 +33,13 @@ export default function About() {
           <span>Bootstrap</span>
           <span>PowerBI</span>
           <span>MongoDB</span>
+          <span>Data Analytics</span>
+          <span>Data Visualization</span>
+          <span>Data Preprocessing</span>
+          <span>Machine Learning</span>
+          <span>Pandas</span>
+          <span>Numpy</span>
+          <span>Seaborn</span>
           <span>Colab</span>
           <span>C</span>
           <span>C#</span>

@@ -16,6 +16,12 @@ export default function Certifications() {
       link: "https://learn.microsoft.com/api/achievements/share/en-us/KaviyasriV-9724/7KQSN93Z?sharingId=E5A78DFC8E7FFEE0",
     },
     {
+      title: "React Training",
+      issuer: "Perkins Campus",
+      date: "June 202",
+      link: "https://drive.google.com/file/d/18b1ty2ZtOT7wA7xuMAwqgxDuJOp0Rrwt/view?usp=drive_link",
+    },
+    {
       title: "Microsoft PowerBI",
       issuer: "Infosys Springboard",
       date: "July 2024",

@@ -32,7 +32,7 @@ export default function Home() {
           <h2 className="hero-subtitle">
             <Typewriter
               words={[
-                "Aspiring Software Developer",
+                "Aspiring Software Developer and AI Enthusiast",
                 "Data Analyst",
                 "Enthusiastic Learner",
               ]}
@@ -46,13 +46,13 @@ export default function Home() {
           </h2>
 
           <p className="hero-description">
-            I specialize in <strong>Web development, Data Analytics</strong> and love transforming ideas into interactive user experiences through  insights by analysis.
+            I specialize in <strong>Web development, Data Analytics , AI ,Machine Learning</strong> and love transforming ideas into interactive user experiences through  insights by analysis.
           </p>
 
           <div className="tech-badges">
             <span>HTML</span><span>CSS</span><span>Javascript</span><span>React</span><span>Bootstrap</span><span>PowerBI</span><span>CognosBI</span><span>MySQL</span>
-           <span>Colab</span><span>Python</span><span>C</span><span>C#</span><span>MongoDB</span><span>Platform:Windows</span>
-          </div>
+           <span>Colab</span><span>Python</span><span>C</span><span>C#</span><span>MongoDB</span><span>Platform:Windows</span><span>Git</span><span>GitHub</span><span>Numpy</span>
+<span>Pandas</span><span>Google Colab</span><span>Data Preprocessing  </span>  <span>Data Visualization</span>   </div>
 
           <div className="btn-group">
             <Link to="/projects" className="btn primary">🚀 View My Work</Link>
@@ -60,9 +60,9 @@ export default function Home() {
           </div>
 
           <div className="social-links">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-            <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+            <a href="https://github.com/Kaviyavb" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/kaviya-sri-v" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+            <a href="https://www.instagram.com/kaviyasri_venkatesh/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
           </div>
 
           <div className="scroll-cue">↓ Scroll Down</div>

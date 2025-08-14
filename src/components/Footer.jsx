@@ -10,9 +10,9 @@ export default function Footer() {
           © {new Date().getFullYear()} <strong>Kaviya Sri Venkatesan</strong>. All rights reserved.
         </p>
         <div className="footer-socials">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-           <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+          <a href="https://github.com/Kaviyavb" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+          <a href="https://www.linkedin.com/in/kaviya-sri-v" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+           <a href="https://www.instagram.com/kaviyasri_venkatesh/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
              </div>
       </div>
     </footer>

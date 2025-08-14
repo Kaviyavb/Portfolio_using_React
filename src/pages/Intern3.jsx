@@ -25,7 +25,7 @@ export default function Intern3() {
               <span>Supervised and unsupervised learning</span>
               <span>Pandas</span>
               <span>Numpy</span>
-              <span>Jupyter Notebook</span>
+              <span>Google Colab</span>
               <span>GitHub</span>
             </div>
           </div>

@@ -24,6 +24,8 @@ export default function Intern2() {
               <span>R</span>
               <span>Excel</span>
               <span>Data Visualization</span>
+              <span>Data Preprocessing</span>
+              <span>Python</span>
             </div>
           </div>
         </div>

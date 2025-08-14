@@ -7,7 +7,7 @@ export default function Education() {
       degree: "B.E. Computer Science and Engineering",
       school: "Arunai Engineering College, Tiruvannamalai",
       year: "2021 - 2025",
-      result: "CGPA: 8.66 (Upto 7th semester)",
+      result: "CGPA: 8.82",
     },
     {
       degree: "HSC (12th Grade)",
