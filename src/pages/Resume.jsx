@@ -17,8 +17,8 @@ export default function Resume() {
 
         <div className="resume-preview">
           <iframe
-            src="/resume.pdf"
-            title="Kaviya Sri Resume"
+            src="/KAVIYA SRI V BE RESUME CSE 2025.pdf"
+            title="Kaviya Sri V Resume"
             className="resume-frame"
             width="100%"
             height="600px"
