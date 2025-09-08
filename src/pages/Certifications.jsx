@@ -15,10 +15,16 @@ export default function Certifications() {
       date: "Oct 2023",
       link: "https://learn.microsoft.com/api/achievements/share/en-us/KaviyasriV-9724/7KQSN93Z?sharingId=E5A78DFC8E7FFEE0",
     },
+   {
+      title: " TATA - GenAI Powered Data Analytics Job Simulation",
+      issuer: "Forage",
+      date: "Sep 2025",
+      link: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_ByhCR6XcazRucHtyz_1757321811453_completion_certificate.pdf",
+    },
     {
       title: "React Training",
       issuer: "Perkins Campus",
-      date: "June 202",
+      date: "June 2025",
       link: "https://drive.google.com/file/d/18b1ty2ZtOT7wA7xuMAwqgxDuJOp0Rrwt/view?usp=drive_link",
     },
     {

@@ -11,7 +11,7 @@ export default function Resume() {
           View or download my latest resume to explore my full technical journey, experiences, and certifications.
         </p>
 
-        <a href="/resume.pdf" download className="resume-btn">
+        <a href="/KAVIYA SRI V BE RESUME CSE 2025.pdf" download className="resume-btn">
           📥 Download Resume (PDF)
         </a>
 
